@@ -1,0 +1,6 @@
+{
+  "name": "Aura Music",
+  "description": "Premium glassmorphic music player with dynamic palette animations, interruptible reversible glass overlays, floating pill dock, and YouTube Music recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
